@@ -2,33 +2,17 @@
 
 I'm an **AI & Full-Stack Developer** building SaaS products, AI integrations, automation, and reliable web applications.
 
-### Tech
-
-- Ruby on Rails
-- PostgreSQL / Redis
-- JavaScript / TypeScript
-- OpenAI / Anthropic APIs
-- RAG / semantic search
-- Docker
-- Shopify
-- API integrations
-
 ### What I build
 
 - AI features for existing SaaS applications
-- AI assistants and internal tools
+- AI assistants, RAG, and internal tools
 - Business workflow automation
-- Full-stack Rails applications
-- APIs and third-party integrations
-- Shopify applications and custom integrations
+- Ruby on Rails applications and APIs
+- Shopify integrations
 
-### Currently exploring
+### Tech
 
-- AI integration patterns for existing SaaS products
-- RAG with PostgreSQL / pgvector
-- LLM-powered automation
-- Reliable production AI systems
-
-### Find me
+Ruby on Rails · PostgreSQL · Redis · JavaScript / TypeScript ·
+OpenAI / Anthropic APIs · RAG · Docker · Shopify
 
 🌐 [pavelpestov.com](https://pavelpestov.com)
